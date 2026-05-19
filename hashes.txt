@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Whisper & Fire
+
+This log tracks the cryptographic history and versioning for the song **Whisper & Fire** (whisper-fire).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T18:25:30.091658 | `v1` | `a49b0b011716d13882beaf72b537e8c55978f81f640c799b18a92a6133f1f98c` | `3680a105e298039b85073934c5e9bea22b1eb54317ebfce2735af6f073b31de8` | `2026-05-19_whisper-fire-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whisper-fire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Whisper & Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whisper-fire/) |
+| **Get License** | [Request Licensing for Whisper & Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whisper-fire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan de cho painda ae nasha ni, feel the fire
+> Hanereyan ch marda haan main tera, taking higher
+> Sikhar te bolda nasha tere pyaar da, mind blowing
+> Tere layi khada haan nitt kalla, heart glowing
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a49b0b011716d13882beaf72b537e8c55978f81f640c799b18a92a6133f1f98c` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
